@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/reactjsbootcamp/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/reactjsbootcamp/static/js/main.dd8e7748.chunk.js",
+    "main.js.map": "/reactjsbootcamp/static/js/main.dd8e7748.chunk.js.map",
+    "runtime-main.js": "/reactjsbootcamp/static/js/runtime-main.abb1bc2a.js",
+    "runtime-main.js.map": "/reactjsbootcamp/static/js/runtime-main.abb1bc2a.js.map",
+    "static/js/2.29b6a983.chunk.js": "/reactjsbootcamp/static/js/2.29b6a983.chunk.js",
+    "static/js/2.29b6a983.chunk.js.map": "/reactjsbootcamp/static/js/2.29b6a983.chunk.js.map",
+    "static/js/3.1f10b9a8.chunk.js": "/reactjsbootcamp/static/js/3.1f10b9a8.chunk.js",
+    "static/js/3.1f10b9a8.chunk.js.map": "/reactjsbootcamp/static/js/3.1f10b9a8.chunk.js.map",
+    "index.html": "/reactjsbootcamp/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/reactjsbootcamp/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.29b6a983.chunk.js.LICENSE.txt": "/reactjsbootcamp/static/js/2.29b6a983.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/reactjsbootcamp/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.abb1bc2a.js",
+    "static/js/2.29b6a983.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.dd8e7748.chunk.js"
+  ]
+}
